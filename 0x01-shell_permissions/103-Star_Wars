@@ -1,2 +1,3 @@
 #!/bin/bash
 telnet towel.blinkenlights.nl
+chmod +x starwars.sh
